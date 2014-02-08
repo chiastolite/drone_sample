@@ -1,1 +1,1 @@
-puts 'Hello world!!!'
+exit 1
