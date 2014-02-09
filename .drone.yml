@@ -1,3 +1,5 @@
 image: ubuntu
 script:
   - echo 'test'
+  - exit 1
+
