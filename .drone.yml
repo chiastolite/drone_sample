@@ -1,3 +1,3 @@
 image: buildr/ruby-2.1
 script:
-  - echo 'hoge'
+  - echo 'foo'
