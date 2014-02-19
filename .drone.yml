@@ -1,3 +1,3 @@
-image: base
+image: bradrydzewski/ruby:2.0.0
 script:
-  - echo 'hoge'
+  - ruby -v
