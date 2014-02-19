@@ -1,4 +1,3 @@
 image: bradrydzewski/ruby:2.0.0
 script:
   - ruby -v
-  - ruby -v
