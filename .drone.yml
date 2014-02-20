@@ -1,3 +1,8 @@
 image: buildr/ruby-2.1
 script:
   - echo 'foo'
+service:
+  - elasticsearch
+  - mysql
+  - postgres
+  - redis
